@@ -1,0 +1,27 @@
+{
+  "name": "space",
+  "version": "0.0.0",
+  "authors": [
+    "Cole Chamberlain <cole.chamberlain@gmail.com>"
+  ],
+  "description": "Space related directives and services for standard libraries.",
+  "main": ["./space.js", "./templates/s-box.html", "./templates/s-part.html", "./templates/s-ship.html", "./templates/s-universe.html", "./templates/s-workshop.html"],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "space",
+    "physics",
+    "directives",
+    "services"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
